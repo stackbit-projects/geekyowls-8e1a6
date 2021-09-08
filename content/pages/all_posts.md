@@ -7,7 +7,7 @@ sections:
     section_id: lorem-ipsum
     posts_number: 50
     actions: []
-    category: all
+    category: diagnoseme_devlog
     type: section_posts
 seo:
   title: ''
