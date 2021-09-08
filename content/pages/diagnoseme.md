@@ -52,7 +52,7 @@ sections:
   - title: All Posts
     section_id: All Posts
     form_id: All Posts
-    form_action: all_posts
+    form_action: /diagnoseme/all_posts
     form_fields: []
     submit_label: All Posts
     type: section_form
