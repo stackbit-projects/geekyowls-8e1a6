@@ -26,7 +26,7 @@ sections:
         type: action
     category: all
 seo:
-  title: Tzure E
+  title: Geeky Owls
   description: A Software & Game developer
   extra:
     - name: 'og:type'
