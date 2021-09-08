@@ -10,8 +10,8 @@ sections:
 
 
       We're a small indie studio, with only 2 members - Tzur & Nofar, a happy
-      and geeky couple, working on our first Single-player game - [Diagnose
-      me](/diagnoseme).
+      and geeky married couple, working on our first Single-player game -
+      [Diagnose me](/diagnoseme).
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts across all devlogs
