@@ -24,11 +24,6 @@
                 "type": "action"
             },
             {
-                "label": "Tech-blog",
-                "url": "/devlog/",
-                "style": "link"
-            },
-            {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
