@@ -4,30 +4,10 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Tzur E.'
-    content: >
-      I'm a Software and Game developer, gamer, bookworm, and also a dad.
-
-
-      Currently developing amazing stuff at Flipkart.com, and also working with
-      my wife on our first Single-player game - [Diagnose
-      me](/diagnoseme).
-  - section_id: recent-posts
-    type: section_posts
-    title: Recent Posts across all devlogs
-    posts_number: 4
-    actions:
-      - label: View Diagnose Me Devlog
-        url: /diagnoseme
-        style: button
-        icon_class: dev
-        new_window: false
-        no_follow: false
-        type: action
-      - label: View Devlog
-        url: blog/index.html
-        style: button
-    category: all
+    title: 'Hi, We''re the Geeky Owls!'
+    content: >-
+      This section can contain a subtitle or tagline. The recommended length is
+      one to three sentences, but can be changed as you prefer.
   - section_id: about
     type: section_content
     title: About
