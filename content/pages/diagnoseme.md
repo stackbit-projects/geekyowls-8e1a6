@@ -55,13 +55,6 @@ sections:
     actions: []
     type: section_posts
     category: diagnoseme_devlog
-  - title: All Posts
-    section_id: All Posts
-    form_id: All Posts
-    form_action: /diagnoseme/all_posts
-    form_fields: []
-    submit_label: All Posts
-    type: section_form
 seo:
   description: A development blog for An indie simulation game.
   robots: []
