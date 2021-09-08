@@ -4,33 +4,48 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: "Hi, I'm Stackbit Fresh."
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    title: 'Hi, I''m Tzur E.'
+    content: >
+      I'm a Software and Game developer, gamer, bookworm, and also a dad.
+
+
+      Currently developing amazing stuff at Flipkart.com, and also working with
+      my wife on our first Single-player game - [Diagnose
+      me](/diagnoseme).
+  - section_id: recent-posts
+    type: section_posts
+    title: Recent Posts across all devlogs
+    posts_number: 4
+    actions:
+      - label: View Diagnose Me Devlog
+        url: /diagnoseme
+        style: button
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
+      - label: View Devlog
+        url: blog/index.html
+        style: button
+    category: all
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      In this blog/site I'll document and share interesting projects, updates
+      about the,  "diagnose me" game development process, and a bit of my
+      experience being an avid developer and a gamer.
+
+
+      I'll also, occasionally, remind the internet that I'm a **very** new & a
+      happy dad
     actions:
       - label: Contact Me
         url: /contact
         style: button
-  - section_id: recent-posts
-    type: section_posts
-    title: Recent Posts
-    posts_number: 4
-    actions:
-      - label: View Blog
-        url: blog/index.html
-        style: button
 seo:
-  title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  title: Tzure E
+  description: A Software & Game developer
   extra:
     - name: 'og:type'
       value: website
