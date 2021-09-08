@@ -1,10 +1,11 @@
 {
-    "title": "Geeky Owls",
+    "title": "Tzur E",
     "path_prefix": "/",
     "layout_style": "overflow",
     "palette": "blue",
     "header": {
-        "title": "GeekyOwls",
+        "title": "Tzur E",
+        "profile_img": "/images/Tzur.png",
         "profile_img_alt": "Author avatar",
         "background": "dark",
         "has_nav": true,
@@ -22,6 +23,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Tech-blog",
+                "url": "/devlog/",
+                "style": "link"
             },
             {
                 "label": "About",
@@ -65,11 +71,11 @@
                 "new_window": true
             }
         ],
-        "tagline": "Creating worlds",
-        "profile_img": "/images/fav-6a153372.png"
+        "tagline": "Developer, Gamer, Dad"
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; TzurE. All rights reserved. "
     },
-    "domain": "https://geekyowls-8e1a6.netlify.app"
+    "domain": "www.tzure.com",
+    "favicon": "/images/polite-coriander.png"
 }
