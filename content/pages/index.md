@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, We''re the Geeky Owls!'
     content: >
-      ![](/images/Untitled-2.png)
+      ![](/images/logo3.png)
 
 
       We're a small indie studio, with only 2 members - Tzur & Nofar, a happy
