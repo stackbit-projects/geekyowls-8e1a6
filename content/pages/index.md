@@ -22,8 +22,7 @@ sections:
         no_follow: false
         type: action
     category: all
-  - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
+  - image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
