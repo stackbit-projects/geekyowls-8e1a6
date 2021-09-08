@@ -1,5 +1,6 @@
 [build]
 publish = "out"
+environment = {NODE_VERSION = "12"}
 command = "npm run build"
 base = "."
 functions = "./functions"
