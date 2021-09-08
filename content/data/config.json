@@ -25,11 +25,6 @@
                 "type": "action"
             },
             {
-                "label": "Tech-blog",
-                "url": "/devlog/",
-                "style": "link"
-            },
-            {
                 "label": "About",
                 "url": "/aboutgeekyowls/",
                 "style": "link"
