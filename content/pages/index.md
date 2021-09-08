@@ -24,7 +24,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: lorem-ipsum
+      - label: Follow Us
         url: '#'
         style: link
         icon_class: dev
