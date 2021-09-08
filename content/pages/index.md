@@ -14,7 +14,7 @@ sections:
       [Diagnose me](/diagnoseme).
   - section_id: recent-posts
     type: section_posts
-    title: Recent Posts across all devlogs
+    title: Recent Posts
     posts_number: 4
     actions:
       - label: View Diagnose Me Devlog
