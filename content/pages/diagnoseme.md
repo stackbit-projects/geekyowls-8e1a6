@@ -43,7 +43,7 @@ sections:
         new_window: false
         no_follow: false
       - label: All Posts
-        url: '#'
+        url: /all_posts/
         style: link
         icon_class: dev
         new_window: false
