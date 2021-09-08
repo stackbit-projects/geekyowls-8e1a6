@@ -25,21 +25,6 @@ sections:
         url: blog/index.html
         style: button
     category: all
-  - section_id: about
-    type: section_content
-    title: About
-    content: >
-      In this blog/site I'll document and share interesting projects, updates
-      about the,  "diagnose me" game development process, and a bit of my
-      experience being an avid developer and a gamer.
-
-
-      I'll also, occasionally, remind the internet that I'm a **very** new & a
-      happy dad
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: button
 seo:
   title: Tzure E
   description: A Software & Game developer
