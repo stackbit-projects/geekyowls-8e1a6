@@ -14,6 +14,7 @@ export default class Page extends React.Component {
         const image = _.get(page, 'img_path');
         const imageAlt = _.get(page, 'img_alt', '');
         const markdownContent = _.get(page, 'markdown_content');
+        const imgClassName = _.get(page, 'page_style');
 
         return (
             <Layout page={page} config={config}>
@@ -23,7 +24,8 @@ export default class Page extends React.Component {
                         {subtitle && <div className="post-subtitle">{htmlToReact(subtitle)}</div>}
                     </header>
                     {image && (
-                        <div className="post-image">
+                        //<div className="post-image">
+                        <div className={imgClassName}>
                             <img src={withPrefix(image)} alt={imageAlt} />
                         </div>
                     )}
