@@ -21,9 +21,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: View Devlog
-        url: blog/index.html
-        style: button
     category: all
 seo:
   title: Tzure E
