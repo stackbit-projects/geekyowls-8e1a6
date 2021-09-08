@@ -23,6 +23,9 @@ sections:
         label: Subject
         default_value: Please select
         options:
+          - Project and Game proposals
+          - Technical question
+          - Devlog help
           - Error on the site
           - Sponsorship
           - Other
@@ -38,7 +41,7 @@ sections:
     submit_label: Send Message
 seo:
   title: Contact
-  description: This is the contact page
+  description: Contact Tzur E
   extra:
     - name: 'og:type'
       value: website

@@ -113,10 +113,18 @@ export default class Header extends React.Component {
         const hasNav = _.get(header, 'has_nav');
         const navLinks = _.get(header, 'nav_links');
         const hasSocial = _.get(header, 'has_social');
-        const socialLinks = _.get(header, 'social_links');
+        const socialLinks = _.get(header, 'social_links');       
+        console.log(pageUrl);
+        if (pageUrl.toString() == "diagnoseme" || pageUrl.toString() == "diagnoseme/follow_us" || pageUrl.toString() == "aboutgeekyowls" || pageUrl.toString() == "thank-you-diagnoseme"){
+            var fdisplay = "none; width:0;";
+        }
+        else {
+            var fdisplay = "";
+        } 
+        const display = fdisplay;
 
         return (
-            <header id="masthead" className={`site-header ${headerBackground}`}>
+            <header id="masthead" className={`site-header ${headerBackground}`} style={{display}}>
                 <div className="site-header-wrap">
                     <div className="site-header-inside">
                         <div className="site-branding">

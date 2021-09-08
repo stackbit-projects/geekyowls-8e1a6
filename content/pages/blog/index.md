@@ -1,8 +1,8 @@
 ---
-title: Blog
+title: Devlog
 seo:
-  title: Blog
-  description: This is the blog page
+  title: Tzur's Devlog
+  description: Tzur's Devlog
   extra:
     - name: 'og:type'
       value: website

@@ -59,6 +59,13 @@ export default class Body extends React.Component {
             }
             return <meta key={metaIdx} {...nameAttr} content={value} />;
         });
+        if (pageTitle.toString() == "Diagnose Me" || pageTitle.toString() == "Follow us" || pageTitle.toString() == "About GeekyOwls" || pageTitle.toString() == "Thank you!"){
+            var fdisplay = "margin-left: 100px;";
+        }
+        else {
+            var fdisplay = "";
+        } 
+        const display = fdisplay;
 
         return (
             <React.Fragment>
@@ -76,7 +83,7 @@ export default class Body extends React.Component {
                 </Helmet>
                 <div id="page" className="site">
                     <Header page={page} config={config} />
-                    <div id="content" className="site-content">
+                    <div id="content" className="site-content" style={{display}}>
                         <div className="inner">
                             <main id="main" className="site-main">
                                 {this.props.children}
