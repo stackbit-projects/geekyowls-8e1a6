@@ -9,6 +9,10 @@ sections:
       We're a small indie studio, with only 2 members - Tzur & Nofar, a happy
       and geeky couple, working on our first Single-player game - [Diagnose
       me](/diagnoseme).
+  - image_alt: lorem-ipsum
+    actions: []
+    type: section_content
+    image: /images/Logo2.png
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts across all devlogs
@@ -22,10 +26,6 @@ sections:
         no_follow: false
         type: action
     category: all
-  - image_alt: lorem-ipsum
-    actions: []
-    type: section_content
-    image: /images/Logo2.png
 seo:
   title: Tzure E
   description: A Software & Game developer
