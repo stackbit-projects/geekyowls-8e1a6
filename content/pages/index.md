@@ -6,9 +6,9 @@ sections:
     type: section_hero
     title: 'Hi, We''re the Geeky Owls!'
     content: >
-      We're a small indie studio, with only 2 members - Tzur & Nofar, a happy
-      and geeky couple, working on our first Single-player game - [Diagnose
-      me](/diagnoseme).
+      ![](/images/Logo2.png)We're a small indie studio, with only 2 members -
+      Tzur & Nofar, a happy and geeky couple, working on our first Single-player
+      game - [Diagnose me](/diagnoseme).
   - image_alt: lorem-ipsum
     actions: []
     type: section_content
