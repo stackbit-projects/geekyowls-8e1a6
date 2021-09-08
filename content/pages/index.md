@@ -27,7 +27,7 @@ sections:
     category: all
 seo:
   title: Geeky Owls
-  description: 'An Indie game '
+  description: An Indie game development studio
   extra:
     - name: 'og:type'
       value: website
