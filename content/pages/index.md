@@ -25,7 +25,7 @@ sections:
         no_follow: false
         type: action
       - label: Follow Us
-        url: /follow_us
+        url: /diagnoseme/follow_us/
         style: link
         icon_class: dev
         new_window: false
