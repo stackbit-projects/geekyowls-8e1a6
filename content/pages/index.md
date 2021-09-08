@@ -4,20 +4,14 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: "Hi, We're Geeky Owls!"
+    title: 'Hi, I''m Tzur E.'
     content: >
-      GeekyOwls is a small indie studio, with only 2 members - Tzur & Nofar, a happy and geeky couple.
-      We have a pretty short history!
+      I'm a Software and Game developer, gamer, bookworm, and also a dad.
 
-    We, Tzur & Nofar, are both gamers - Tzur is a software developer, Nofar is an Information Security researcher working toward her MSc in Neuroscience.
-    We both love playing games, but never really thought of trying to create them (even though, Tzur created a small platformer game in order to propose to Nofar!)
 
-    During the birth of our son, we had a cool game design idea. What started as a labor room talk to distract, became an actual game design doc, where several weeks after the initial shock of parenthood, we started developing it.
-    Quickly, we had a working game loop, and things are looking great!
-
-    Join us in our cool journey!
-
-    Tzur & Nofar
+      Currently developing amazing stuff at Flipkart.com, and also working with
+      my wife on our first Single-player game - [Diagnose
+      me](/diagnoseme).
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts across all devlogs
