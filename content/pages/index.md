@@ -36,6 +36,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: /images/Logo2.png
 seo:
   title: Tzure E
   description: A Software & Game developer
