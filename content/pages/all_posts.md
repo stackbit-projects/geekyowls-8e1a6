@@ -4,7 +4,7 @@ hide_title: true
 excerpt: lorem-ipsum
 sections:
   - title: All posts
-    section_id: lorem-ipsum
+    section_id: all-posts
     posts_number: 50
     actions: []
     category: diagnoseme_devlog
