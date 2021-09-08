@@ -12,6 +12,10 @@ sections:
       We're a small indie studio, with only 2 members - Tzur & Nofar, a happy
       and geeky married couple, working on our first Single-player game -
       [Diagnose me](/diagnoseme).
+
+
+      [Subscribe ](/diagnoseme/follow_us/)to our newsletter to get our latest
+      news!
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
