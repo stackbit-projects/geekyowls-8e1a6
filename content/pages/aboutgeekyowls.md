@@ -5,7 +5,7 @@ subtitle: >-
   and geeky couple.
 img_alt: lorem-ipsum
 seo:
-  title: ''
+  title: About Geeky Owls Studio
   description: ''
   robots: []
   extra: []
