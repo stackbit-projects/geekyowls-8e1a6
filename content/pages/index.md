@@ -14,13 +14,15 @@ sections:
       [Diagnose me](/diagnoseme).
 
 
-      [Subscribe ](/diagnoseme/follow_us/)to our newsletter to get our latest
-      news and updates!
+      *   [Subscribe ](/diagnoseme/follow_us/)to our newsletter to get our
+      latest news and updates!
 
 
+      <!---->
 
 
-      [Diagnose me Official Alpha version trailer](https://youtu.be/tMSsDtbAUZM)
+      *   [Diagnose me Official Alpha version
+      trailer](https://youtu.be/tMSsDtbAUZM)
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
