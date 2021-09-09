@@ -41,7 +41,7 @@ sections:
     submit_label: Send Message
 seo:
   title: Contact Geeky Owls
-  description: Contact Tzur E
+  description: Contact Geeky Owls
   extra:
     - name: 'og:type'
       value: website
