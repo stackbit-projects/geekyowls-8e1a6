@@ -57,7 +57,7 @@ seo:
     - name: 'twitter:title'
       value: Geeky Owls
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: An Indie game development studio
     - name: 'twitter:image'
       value: /images/fav-6a153372.png
       relativeUrl: true
