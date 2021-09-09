@@ -15,7 +15,7 @@ sections:
 
 
       [Subscribe ](/diagnoseme/follow_us/)to our newsletter to get our latest
-      news!
+      news and updates!
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
