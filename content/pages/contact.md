@@ -40,7 +40,7 @@ sections:
           can be contacted.
     submit_label: Send Message
 seo:
-  title: Contact
+  title: Contact Geeky Owls
   description: Contact Tzur E
   extra:
     - name: 'og:type'
