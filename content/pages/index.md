@@ -49,7 +49,7 @@ seo:
       value: An Indie game development studio
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: /images/logo3.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
