@@ -14,7 +14,7 @@ sections:
       [Diagnose me](/diagnoseme).
 
 
-      *   Follow us at our official [Twitter](https://twitter.com/GeekyOwls1)
+      *   [Follow us ](https://twitter.com/GeekyOwls1)on our official Twitter!
 
       *   [Subscribe ](/diagnoseme/follow_us/)to our newsletter to get our
       latest news and updates!
